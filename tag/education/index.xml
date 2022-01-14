@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education | Elliot Millington</title>
+    <link>https://elliotmillington.github.io/tag/education/</link>
+      <atom:link href="https://elliotmillington.github.io/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <description>Education</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Jan 2022 10:58:27 +0100</lastBuildDate>
+    <image>
+      <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
+      <title>Education</title>
+      <link>https://elliotmillington.github.io/tag/education/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Reality (VR) Multi-User Lab for Immersive Teaching</title>
+      <link>https://elliotmillington.github.io/publication/vr-multi-user-lab-teaching/</link>
+      <pubDate>Tue, 11 Jan 2022 10:58:27 +0100</pubDate>
+      <guid>https://elliotmillington.github.io/publication/vr-multi-user-lab-teaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
