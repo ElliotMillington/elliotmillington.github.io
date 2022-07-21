@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Freeman | Elliot Millington</title>
+    <link>https://elliotmillington.github.io/author/chris-freeman/</link>
+      <atom:link href="https://elliotmillington.github.io/author/chris-freeman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Freeman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 10:58:27 +0100</lastBuildDate>
+    <image>
+      <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Freeman</title>
+      <link>https://elliotmillington.github.io/author/chris-freeman/</link>
+    </image>
+    
+    <item>
+      <title>ALIVE: Avatar Learning Impact Assessment for Virtual Environments</title>
+      <link>https://elliotmillington.github.io/publication/alive/</link>
+      <pubDate>Mon, 20 Jun 2022 10:58:27 +0100</pubDate>
+      <guid>https://elliotmillington.github.io/publication/alive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

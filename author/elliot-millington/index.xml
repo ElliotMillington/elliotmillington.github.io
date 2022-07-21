@@ -5,17 +5,20 @@
     <link>https://elliotmillington.github.io/author/elliot-millington/</link>
       <atom:link href="https://elliotmillington.github.io/author/elliot-millington/index.xml" rel="self" type="application/rss+xml" />
     <description>Elliot Millington</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 10:58:27 +0100</lastBuildDate>
     <image>
       <url>https://elliotmillington.github.io/images/icon_hu1c6436ea0a3d4bbf86936c0b03a04d16_61091_512x512_fill_lanczos_center_2.png</url>
       <title>Elliot Millington</title>
       <link>https://elliotmillington.github.io/author/elliot-millington/</link>
     </image>
     
-  </channel>
-</rss>
-liot-millington/</link>
-    </image>
+    <item>
+      <title>ALIVE: Avatar Learning Impact Assessment for Virtual Environments</title>
+      <link>https://elliotmillington.github.io/publication/alive/</link>
+      <pubDate>Mon, 20 Jun 2022 10:58:27 +0100</pubDate>
+      <guid>https://elliotmillington.github.io/publication/alive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploratory study on the use of HMD virtual reality to investigate individual differences in visual processing styles</title>
