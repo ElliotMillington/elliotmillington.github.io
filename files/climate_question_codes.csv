@@ -1,0 +1,30 @@
+﻿question,code,response
+happening,0,Don't know
+happening,1,No
+happening,2,Yes
+cause,1,Caused mostly by human activities
+cause,2,Caused mostly by natural changes in the environment
+cause,3,Other
+cause,4,None of the above because global warming isn't happening
+worry,1,Not at all worried
+worry,2,Not very worried
+worry,3,Somewhat worried
+worry,4,Very worried
+regulate_CO2,1,Strongly oppose
+regulate_CO2,2,Somewhat oppose
+regulate_CO2,3,Somewhat support
+regulate_CO2,4,Strongly support
+fund_research,1,Strongly oppose
+fund_research,2,Somewhat oppose
+fund_research,3,Somewhat support
+fund_research,4,Strongly support
+political_party,1,Republican
+political_party,2,Independent
+political_party,3,Democrat
+political_party,4,Other
+political_party,5,No party / not interested in politics
+educ,1,Did not graduate high school
+educ,2,"High school graduate, GED, or alternative"
+educ,3,"Some college, or associates degree"
+educ,4,Bechelor's (college) degree or equivalent
+educ,5,Graduate or professional degree
