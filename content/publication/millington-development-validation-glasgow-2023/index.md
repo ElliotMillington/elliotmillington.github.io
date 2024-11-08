@@ -11,4 +11,5 @@ publication: '*PsyArXiv*'
 links:
 - name: URL
   url: https://osf.io/preprints/psyarxiv/84kgt/
+featured: true
 ---

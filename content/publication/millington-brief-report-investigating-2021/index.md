@@ -24,4 +24,6 @@ abstract: Video games are commonly of interest in autism, with autistic adolesce
 links:
 - name: URL
   url: https://doi.org/10.1007/s10803-021-04994-x
+
+featured: true
 ---
